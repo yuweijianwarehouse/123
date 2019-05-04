@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+ul{
+    list-style:none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.banxin{margin:0 auto;
+        width: 1200px;
+}
+
+.fl{float:left;}
+
+.fr{float: right;}
+
+.shorcut{height: 30px;
+background-color: green;
+line-height: 30px;}
+
+.banxin a {margin-left: 12px;
+font-size: xx-small;}
+.banxin li{float:left;}

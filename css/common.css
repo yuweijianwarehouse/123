@@ -1,0 +1,73 @@
+* {
+    margin:0;
+padding:0;
+}
+
+.clearfix:after {
+    content:"";
+    display: block;
+    height: 0;
+    clear:both;
+    visibility: hidden;
+}
+.clearfix {
+    *zoom: 1;
+}
+
+body {
+    margin:0;
+    background-color: #fff;
+    color:#333;
+    font-size:12px;
+    font-family: tahoma,arial, 'Hiragino sans GB', 'Microsoft Yahei', \5b8b\4f53,sans-serif;
+    line-height: 18px; 
+}
+
+li {
+    list-style: none;
+}
+/*解决图片底册有空白缝隙*/
+img {vertical-align: top;}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+a:hover {
+    color:#e82633;
+}
+
+em,i {
+     font-style: normal!important;
+ }
+
+input,button {
+        outline: none;
+        border:0;
+} 
+/*公共样式*/
+.fl {
+    float:left;
+}
+
+.fr {
+    float:right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
